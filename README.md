@@ -20,7 +20,7 @@ Garantizar la escalabilidad del modelo permitiendo la integración de nuevos cam
 ##Diagrama E/R:
 <img src="assets/DiagramaER.drawio.png" alt="DiagramaER">
 ##Diagrama Modelo Lógico base de Datos:
- ![ModeloLogicobasedeDatos] (assets/ModeloLogicoBasedeDatos.drawio.png)
+<img src="assets/ModeloLogicoBasedeDatos.drawio.png" alt="BasedeDatos">
 
 ## Cómo ejecutar el proyecto
 1. Repositorio Git [https://github.com/fernanbga/BaseDeDatosRelacional]
