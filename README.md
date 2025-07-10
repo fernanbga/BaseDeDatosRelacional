@@ -22,13 +22,13 @@ Garantizar la escalabilidad del modelo permitiendo la integración de nuevos cam
 ##Diagrama Modelo Lógico base de Datos:
 <img src="assets/ModeloLogicoBasedeDatos.drawio.png" alt="BasedeDatos">
 
-## Cómo ejecutar el proyecto
+## Repositorio Git del Proyecto
 1. Repositorio Git [https://github.com/fernanbga/BaseDeDatosRelacional]
 
 ## Lecciones aprendidas
 - Modelado eficiente con enfoque en escalabilidad.
 - Transformación de datos planos en estructuras normalizadas.
-- Implementación de relaciones N:N con tablas intermedias.
+- Implementación de relaciones M:M con tablas intermedias.
 - Configuración de Render y despliegue en entorno productivo.
 - Testing local mediante Docker y pgAdmin.
 
