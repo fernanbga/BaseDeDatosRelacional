@@ -18,7 +18,7 @@ Garantizar la escalabilidad del modelo permitiendo la integración de nuevos cam
 
 ## Capturas de pantalla
 ##Diagrama E/R:
- ![DiagramaER] (assets/DiagramaER.drawio.png)
+<img src="assets/DiagramaER.drawio.png" alt="DiagramaER">
 ##Diagrama Modelo Lógico base de Datos:
  ![ModeloLogicobasedeDatos] (assets/ModeloLogicoBasedeDatos.drawio.png)
 
