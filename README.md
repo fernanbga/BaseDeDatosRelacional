@@ -18,9 +18,9 @@ Garantizar la escalabilidad del modelo permitiendo la integración de nuevos cam
 
 ## Capturas de pantalla
 ##Diagrama E/R:
-<img src="assets/DiagramaER.drawio.png" alt="DiagramaER">
+<img src="assets/DiagramaER1.png" alt="DiagramaER">
 ##Diagrama Modelo Lógico base de Datos:
-<img src="assets/ModeloLogicoBasedeDatos.drawio.png" alt="BasedeDatos">
+<img src="assets/ModeloLogicoBasedeDatos.png" alt="BasedeDatos">
 
 ## Repositorio Git del Proyecto
 1. Repositorio Git [https://github.com/fernanbga/BaseDeDatosRelacional]
@@ -28,7 +28,7 @@ Garantizar la escalabilidad del modelo permitiendo la integración de nuevos cam
 ## Lecciones aprendidas
 - Modelado eficiente con enfoque en escalabilidad.
 - Transformación de datos planos en estructuras normalizadas.
-- Implementación de relaciones M:M con tablas intermedias.
+- Implementación de relaciones N:M con tablas intermedias.
 - Configuración de Render y despliegue en entorno productivo.
 - Testing local mediante Docker y pgAdmin.
 
@@ -46,4 +46,3 @@ Garantizar la escalabilidad del modelo permitiendo la integración de nuevos cam
 - Mercedes Cuesta
 - Pedro López Fontaneda
 - Fernán Burgos
-
